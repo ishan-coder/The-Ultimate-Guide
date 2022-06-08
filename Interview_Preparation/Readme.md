@@ -23,8 +23,8 @@ After understanding the syntax of language, you should atleast solve 30-40 quest
 
 1. [STL](Standard_Template_Library_STL.md)
 2. [Arrays and Vectors](arrays.md)
-3. [Maths](Maths.md) (will have to do later for time being)
-4. [Strings](strings.md)  ...()
+3. [Maths](Maths.md) 
+4. [Strings](strings.md)  ...(will have to do later for time being)
 5. [Binary Search](binary_search.md)
 6. Bit Manipulation
 7. [Two pointers](two_pointers.md)
